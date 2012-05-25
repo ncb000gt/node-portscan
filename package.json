@@ -1,7 +1,7 @@
 {
   "name": "portscan",
   "description": "port scanner in node, useful for finding an open port.",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "keywords": ["port","scanner","scan","portscan","portscanner","port scan", "port scanner"],
   "main": "./index",
   "author": "Nick Campbell <nicholas.j.campbell@gmail.com>",
