@@ -1,0 +1,14 @@
+{
+  "name": "portscan",
+  "description": "port scanner in node, useful for finding an open port.",
+  "version": "0.0.1",
+  "keywords": ["port","scanner","scan","portscan","portscanner","port scan", "port scanner"],
+  "main": "./index",
+  "author": "Nick Campbell <nicholas.j.campbell@gmail.com>",
+  "repository": "https://github.com/ncb000gt/node-portscan.git",
+  "licenses": ["MIT"],
+  "bugs": "https://github.com/ncb000gt/node-portscan/issues",
+  "devDependencies": {
+    "mocha": "*"
+  }
+}
