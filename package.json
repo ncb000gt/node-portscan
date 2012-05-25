@@ -10,5 +10,8 @@
   "bugs": "https://github.com/ncb000gt/node-portscan/issues",
   "devDependencies": {
     "mocha": "*"
+  },
+  "scripts": {
+    "test": "make test"
   }
 }
